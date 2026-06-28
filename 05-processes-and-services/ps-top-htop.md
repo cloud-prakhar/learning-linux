@@ -95,3 +95,13 @@ Inside `top`: `P` sort by CPU, `M` sort by memory, `k` kill a PID, `q` quit.
 
 - `man ps`, `man top`
 - htop: https://htop.dev/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Process Basics](process-basics.md) | ⬆️ Module: [Module 05 — Processes & Services](README.md) | ➡️ Next: [Kill and Signals](kill-signals.md) |

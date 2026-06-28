@@ -98,3 +98,13 @@ PasswordAuthentication no
 
 - OpenSSH: https://www.openssh.com/manual.html
 - `man ssh`, `man ssh-keygen`, `man sshd_config`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Security Basics](security-basics.md) | ⬆️ Module: [Module 12 — Linux Security Basics](README.md) | ➡️ Next: [Firewall Basics (ufw / firewalld)](firewall-basics-ufw-firewalld.md) |

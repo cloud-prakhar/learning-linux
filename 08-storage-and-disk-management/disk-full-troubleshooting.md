@@ -111,3 +111,13 @@ sudo lsof | grep deleted                 # find phantom space users
 
 - `man df`, `man du`, `man truncate`, `man journalctl`
 - [log-cleanup-basics.md](./log-cleanup-basics.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [mount and umount](mount-and-umount.md) | ⬆️ Module: [Module 08 — Storage & Disk Management](README.md) | ➡️ Next: [Log Cleanup Basics](log-cleanup-basics.md) |

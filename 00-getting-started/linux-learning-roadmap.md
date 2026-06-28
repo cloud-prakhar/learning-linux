@@ -82,3 +82,13 @@ Feeling stuck on a module? Drop back one module and redo its practice tasks — 
 
 - This repo's [root README](../README.md) roadmap table.
 - roadmap.sh/linux: https://roadmap.sh/linux
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux in the Real World](linux-in-real-world.md) | ⬆️ Module: [Module 00 — Getting Started](README.md) | ➡️ Next: [Module 01 — Linux Setup](../01-linux-setup/README.md) |

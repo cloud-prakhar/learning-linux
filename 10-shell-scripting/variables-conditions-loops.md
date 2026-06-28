@@ -121,3 +121,13 @@ done
 
 - Bash conditional expressions: https://www.gnu.org/software/bash/manual/
 - `man test`, `man bash`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Shell Script Basics](shell-script-basics.md) | ⬆️ Module: [Module 10 — Shell Scripting](README.md) | ➡️ Next: [Functions and Arguments](functions-and-arguments.md) |

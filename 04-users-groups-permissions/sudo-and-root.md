@@ -89,3 +89,13 @@ sudo usermod -aG sudo bob       # grant bob sudo (Debian/Ubuntu)
 
 - `man sudo`, `man sudoers`, `man visudo`
 - Sudo project: https://www.sudo.ws/docs/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [chmod, chown, chgrp](chmod-chown-chgrp.md) | ⬆️ Module: [Module 04 — Users, Groups & Permissions](README.md) | ➡️ Next: [Permission Troubleshooting](permission-troubleshooting.md) |

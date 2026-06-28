@@ -86,3 +86,13 @@ If `docker`/`kubectl` aren't installed, that's expected — you'll set them up l
 
 - CNCF (Cloud Native Computing Foundation): https://www.cncf.io/
 - Android (Linux kernel): https://source.android.com/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Why Learn Linux?](why-learn-linux.md) | ⬆️ Module: [Module 00 — Getting Started](README.md) | ➡️ Next: [Linux Learning Roadmap](linux-learning-roadmap.md) |

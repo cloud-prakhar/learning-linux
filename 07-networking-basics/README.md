@@ -67,3 +67,13 @@ Find your IP, resolve a domain, ping a host, curl a website, list listening port
 ## Next Module
 
 ➡️ [08 — Storage & Disk Management](../08-storage-and-disk-management/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Package Troubleshooting](../06-package-management/package-troubleshooting.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Networking Fundamentals](networking-fundamentals.md) |

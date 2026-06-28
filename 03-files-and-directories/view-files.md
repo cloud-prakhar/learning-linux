@@ -95,3 +95,13 @@ tail -f /var/log/nginx/access.log   # follow live
 
 - GNU Coreutils: https://www.gnu.org/software/coreutils/manual/
 - `man cat`, `man less`, `man head`, `man tail`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Create, Copy, Move, Delete](create-copy-move-delete.md) | ⬆️ Module: [Module 03 — Files & Directories](README.md) | ➡️ Next: [Searching Files](search-files.md) |

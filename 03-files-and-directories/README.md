@@ -63,3 +63,13 @@ Build a small directory tree, copy and rename files in it, search for text, then
 ## Next Module
 
 ➡️ [04 — Users, Groups & Permissions](../04-users-groups-permissions/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Basic Navigation Commands](../02-linux-basics/basic-navigation-commands.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Create, Copy, Move, Delete](create-copy-move-delete.md) |

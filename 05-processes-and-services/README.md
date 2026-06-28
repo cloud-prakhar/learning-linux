@@ -63,3 +63,13 @@ Start a background process, find it with `ps`/`top`, send it signals, then inspe
 ## Next Module
 
 ➡️ [06 — Package Management](../06-package-management/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Permission Troubleshooting](../04-users-groups-permissions/permission-troubleshooting.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Process Basics](process-basics.md) |

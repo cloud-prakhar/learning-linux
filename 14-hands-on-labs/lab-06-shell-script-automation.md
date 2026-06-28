@@ -116,3 +116,13 @@ rm -rf ~/lab06
 - **Cron job didn't run** → check `~/lab06/cron.log`; ensure absolute paths and that the cron daemon is active (`systemctl status cron`). See [cron-troubleshooting](../11-automation-and-cron/cron-troubleshooting.md).
 - **`crontab: command not found`** → install cron (`sudo apt install cron`) and start it.
 - **CRLF / "bad interpreter"** → if edited on Windows, run `dos2unix ~/lab06/dirreport.sh`.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Lab 05 — Disk-Full Scenario](lab-05-disk-full-scenario.md) | ⬆️ Module: [Module 14 — Hands-On Labs](README.md) | ➡️ Next: [Module 15 — Mini Projects](../15-mini-projects/README.md) |

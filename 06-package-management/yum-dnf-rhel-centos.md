@@ -99,3 +99,13 @@ dnf provides /usr/bin/htop      # which package provides a file
 
 - DNF docs: https://dnf.readthedocs.io/
 - Red Hat package management: https://access.redhat.com/documentation/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [apt (Ubuntu / Debian)](apt-ubuntu-debian.md) | ⬆️ Module: [Module 06 — Package Management](README.md) | ➡️ Next: [Install, Remove, Update Packages](install-remove-update-packages.md) |

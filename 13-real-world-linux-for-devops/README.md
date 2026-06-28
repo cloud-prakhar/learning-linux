@@ -62,3 +62,13 @@ If you have the tools: launch an EC2 instance, run a container, inspect a node, 
 ## Next Module
 
 ➡️ [14 — Hands-On Labs](../14-hands-on-labs/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Security Best Practices](../12-linux-security-basics/security-best-practices.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Linux for AWS](linux-for-aws.md) |

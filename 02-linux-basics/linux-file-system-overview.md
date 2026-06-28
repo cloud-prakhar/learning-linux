@@ -100,3 +100,13 @@ tree -L 1 /       # one-level tree of root (if 'tree' installed)
 
 - Filesystem Hierarchy Standard: https://refspecs.linuxfoundation.org/fhs.shtml
 - `man hier`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Kernel, Shell, and Terminal](kernel-shell-terminal.md) | ⬆️ Module: [Module 02 — Linux Basics](README.md) | ➡️ Next: [Absolute vs Relative Paths](absolute-vs-relative-path.md) |

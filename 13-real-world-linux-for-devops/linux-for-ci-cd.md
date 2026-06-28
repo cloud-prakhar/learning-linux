@@ -108,3 +108,13 @@ set -euo pipefail        # the safe header CI relies on
 
 - GitHub Actions: https://docs.github.com/actions
 - GitLab CI: https://docs.gitlab.com/ee/ci/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux for Kubernetes](linux-for-kubernetes.md) | ⬆️ Module: [Module 13 — Real-World Linux for DevOps](README.md) | ➡️ Next: [Production Server Checklist](production-server-checklist.md) |

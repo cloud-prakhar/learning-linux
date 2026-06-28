@@ -107,3 +107,13 @@ tail -n 20 /var/log/backup.log
 
 - [Module 10 backup script](../10-shell-scripting/backup-script-example.md)
 - [crontab-basics.md](./crontab-basics.md), [cron-troubleshooting.md](./cron-troubleshooting.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Crontab Basics](crontab-basics.md) | ⬆️ Module: [Module 11 — Automation & Cron](README.md) | ➡️ Next: [Cron Troubleshooting](cron-troubleshooting.md) |

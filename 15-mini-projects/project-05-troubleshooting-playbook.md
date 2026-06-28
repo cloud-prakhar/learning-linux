@@ -103,3 +103,13 @@ chmod +x ~/projects/playbook/triage.sh
 - [Module 09 scenarios](../09-logs-monitoring-troubleshooting/real-world-troubleshooting-scenarios.md)
 - [Module 13 production checklist](../13-real-world-linux-for-devops/production-server-checklist.md)
 - [Troubleshooting cheatsheet](../16-cheatsheets/troubleshooting-cheatsheet.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Project 04 — Simple Nginx Server Setup](project-04-simple-nginx-server-setup.md) | ⬆️ Module: [Module 15 — Mini Projects](README.md) | ➡️ Next: [Module 16 — Cheatsheets](../16-cheatsheets/README.md) |

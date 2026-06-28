@@ -91,3 +91,13 @@ sudo -l                      # what privileges do I have?
 
 - CIS Benchmarks: https://www.cisecurity.org/cis-benchmarks
 - Ubuntu security: https://ubuntu.com/security
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 12 — Linux Security Basics](README.md) | ⬆️ Module: [Module 12 — Linux Security Basics](README.md) | ➡️ Next: [SSH Basics](ssh-basics.md) |

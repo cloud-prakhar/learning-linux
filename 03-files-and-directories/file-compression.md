@@ -98,3 +98,13 @@ So `tar -czvf out.tar.gz dir/` = create + gzip + verbose + file `out.tar.gz` fro
 
 - GNU Tar manual: https://www.gnu.org/software/tar/manual/
 - `man tar`, `man gzip`, `man zip`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Links — Hard and Soft (Symbolic)](links-hard-soft.md) | ⬆️ Module: [Module 03 — Files & Directories](README.md) | ➡️ Next: [Module 04 — Users, Groups & Permissions](../04-users-groups-permissions/README.md) |

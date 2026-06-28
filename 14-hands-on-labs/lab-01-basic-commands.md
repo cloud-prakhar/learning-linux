@@ -89,3 +89,13 @@ rm -r lab01
 - **`tree: command not found`** → `sudo apt install tree` or rely on `ls -R`.
 - **"No such file or directory"** → confirm you're in `~/lab01/project` with `pwd`.
 - **Permission denied** → ensure you're working under your home directory.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 14 — Hands-On Labs](README.md) | ⬆️ Module: [Module 14 — Hands-On Labs](README.md) | ➡️ Next: [Lab 02 — User & Permission Practice](lab-02-user-permission-practice.md) |

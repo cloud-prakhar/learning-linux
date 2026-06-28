@@ -62,3 +62,13 @@ Generate an SSH key pair, configure key-based login, enable a firewall allowing 
 ## Next Module
 
 ➡️ [13 — Real-World Linux for DevOps](../13-real-world-linux-for-devops/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Cron Troubleshooting](../11-automation-and-cron/cron-troubleshooting.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Security Basics](security-basics.md) |

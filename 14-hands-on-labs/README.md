@@ -52,3 +52,13 @@ These labs consolidate Modules 02–11. After finishing, you can navigate, secur
 ## Next Module
 
 ➡️ [15 — Mini Projects](../15-mini-projects/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Production Server Checklist](../13-real-world-linux-for-devops/production-server-checklist.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Lab 01 — Basic Commands & Navigation](lab-01-basic-commands.md) |

@@ -102,3 +102,13 @@ drwxr-xr-x  2 alice alice 4.0K Jun 28 10:00 .
 
 - GNU Coreutils (ls): https://www.gnu.org/software/coreutils/manual/
 - `man ls`, `man cd`, `man tree`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Absolute vs Relative Paths](absolute-vs-relative-path.md) | ⬆️ Module: [Module 02 — Linux Basics](README.md) | ➡️ Next: [Module 03 — Files & Directories](../03-files-and-directories/README.md) |

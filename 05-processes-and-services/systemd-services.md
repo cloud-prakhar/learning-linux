@@ -103,3 +103,13 @@ Expected `status` (trimmed):
 
 - systemd: https://www.freedesktop.org/wiki/Software/systemd/
 - `man systemctl`, `man systemd.service`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Kill and Signals](kill-signals.md) | ⬆️ Module: [Module 05 — Processes & Services](README.md) | ➡️ Next: [Service Troubleshooting](service-troubleshooting.md) |

@@ -99,3 +99,13 @@ Example logrotate rule (`/etc/logrotate.d/myapp`):
 
 - `man logrotate`, `man journalctl`, `man journald.conf`
 - [disk-full-troubleshooting.md](./disk-full-troubleshooting.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Disk Full Troubleshooting](disk-full-troubleshooting.md) | ⬆️ Module: [Module 08 — Storage & Disk Management](README.md) | ➡️ Next: [Module 09 — Logs, Monitoring & Troubleshooting](../09-logs-monitoring-troubleshooting/README.md) |

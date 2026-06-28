@@ -120,3 +120,13 @@ echo "Done."
 
 - [Module 09 resource checks](../09-logs-monitoring-troubleshooting/cpu-memory-disk-checks.md)
 - [Module 10 shell scripting](../10-shell-scripting/)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 15 — Mini Projects](README.md) | ⬆️ Module: [Module 15 — Mini Projects](README.md) | ➡️ Next: [Project 02 — Log Cleanup Automation](project-02-log-cleanup-automation.md) |

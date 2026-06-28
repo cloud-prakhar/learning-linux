@@ -87,3 +87,13 @@ sudo groupdel devteam
 - **Group membership "not working"** → `sudo -u` starts a fresh session so it applies; for a real login, log out/in or use `newgrp`.
 - **`useradd: user already exists`** → it's already created; `id alice` to confirm, or pick another name.
 - **Still denied after chmod** → check a parent directory also allows traverse (`namei -l /srv/private`).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Lab 01 — Basic Commands & Navigation](lab-01-basic-commands.md) | ⬆️ Module: [Module 14 — Hands-On Labs](README.md) | ➡️ Next: [Lab 03 — Process & Service Debugging](lab-03-process-service-debugging.md) |

@@ -124,3 +124,13 @@ ls -l /tmp/logtest          # old.log should now be old.log.gz
 
 - `man find`, `man gzip`, `man touch`
 - [Module 08 log cleanup](../08-storage-and-disk-management/log-cleanup-basics.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Backup Script Example](backup-script-example.md) | ⬆️ Module: [Module 10 — Shell Scripting](README.md) | ➡️ Next: [Module 11 — Automation & Cron](../11-automation-and-cron/README.md) |

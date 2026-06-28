@@ -92,3 +92,13 @@ cat /proc/cpuinfo # hardware: CPU details (from the kernel)
 
 - The Linux Kernel docs: https://docs.kernel.org/
 - `man 2 syscalls`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 02 — Linux Basics](README.md) | ⬆️ Module: [Module 02 — Linux Basics](README.md) | ➡️ Next: [Kernel, Shell, and Terminal](kernel-shell-terminal.md) |

@@ -143,7 +143,16 @@ Contributions are welcome!
 
 ## Official References
 
-See [references/official-documentation.md](./references/official-documentation.md) for links to Linux man pages, Ubuntu/Debian/Red Hat docs, GNU Coreutils, Bash, systemd, OpenSSH, and the Filesystem Hierarchy Standard.
+The [references/](./references/) folder collects the authoritative, official sources:
+
+| File | What's Inside |
+|------|---------------|
+| [official-documentation.md](./references/official-documentation.md) | man pages, Ubuntu/Debian/Red Hat docs, GNU Coreutils, Bash, systemd, OpenSSH, FHS |
+| [standards-and-rfcs.md](./references/standards-and-rfcs.md) | The specs that define it all: FHS, POSIX, and IETF RFCs (TCP/IP, DNS, HTTP, SSH, TLS) |
+| [reading-list-by-module.md](./references/reading-list-by-module.md) | Per-module official docs + `man` pages to read alongside each module |
+| [recommended-learning-resources.md](./references/recommended-learning-resources.md) | Trusted tutorials, practice sites, and books |
+
+> **Reading order that never lies:** `man <command>` (offline, version-exact) → official docs (context) → RFCs/standards (ground truth).
 
 ---
 
@@ -152,3 +161,13 @@ See [references/official-documentation.md](./references/official-documentation.m
 Free to use for self-learning and teaching. Star ⭐ the repo if it helps you, and share it with someone starting their Linux journey.
 
 > **Start here → [00-getting-started](./00-getting-started/)**
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| — | 🏠 Home | ➡️ Next: [Module 00 — Getting Started](00-getting-started/README.md) |

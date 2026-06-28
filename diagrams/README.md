@@ -32,3 +32,13 @@ Mermaid renders automatically on GitHub. To edit/preview elsewhere, use the [Mer
 | Cron job execution | Schedule → run | 11 |
 | SSH connection | Key-based auth | 12 |
 | Linux in DevOps | Skills → tools | 13 |
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Final Revision Notes](../17-interview-and-revision/final-revision-notes.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Mermaid Diagrams — Visual Reference](mermaid-diagrams.md) |

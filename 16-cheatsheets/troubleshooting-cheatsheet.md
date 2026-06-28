@@ -63,3 +63,13 @@ journalctl -p err --since '30 min ago' --no-pager | tail
 | Free deleted-open file | restart the holding process |
 
 > Source: Modules [04](../04-users-groups-permissions/), [07](../07-networking-basics/), [08](../08-storage-and-disk-management/), [09](../09-logs-monitoring-troubleshooting/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Process & Service Cheatsheet](process-service-cheatsheet.md) | ⬆️ Module: [Module 16 — Cheatsheets](README.md) | ➡️ Next: [Module 17 — Interview & Revision](../17-interview-and-revision/README.md) |

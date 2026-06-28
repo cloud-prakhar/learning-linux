@@ -104,3 +104,13 @@ sda      50G disk
 
 - `man lsblk`, `man fdisk`, `man fstab`
 - Ubuntu storage: https://ubuntu.com/server/docs
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 08 — Storage & Disk Management](README.md) | ⬆️ Module: [Module 08 — Storage & Disk Management](README.md) | ➡️ Next: [df, du, and lsblk](df-du-lsblk.md) |

@@ -31,3 +31,13 @@ These sheets distill Modules 02–13 into lookups. If a row is unfamiliar, revis
 ## Next Module
 
 ➡️ [17 — Interview & Revision](../17-interview-and-revision/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Project 05 — Troubleshooting Playbook](../15-mini-projects/project-05-troubleshooting-playbook.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Basic Commands Cheatsheet](basic-commands-cheatsheet.md) |

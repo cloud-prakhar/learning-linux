@@ -90,3 +90,13 @@ Expected first connection prompts to accept the host fingerprint — type `yes`.
 
 - AWS EC2 docs: https://docs.aws.amazon.com/ec2/
 - Connect to your instance: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [VirtualBox + Ubuntu Setup](virtualbox-ubuntu-setup.md) | ⬆️ Module: [Module 01 — Linux Setup](README.md) | ➡️ Next: [Terminal Basics](terminal-basics.md) |

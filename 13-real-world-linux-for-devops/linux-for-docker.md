@@ -92,3 +92,13 @@ ps aux | grep nginx                           # see the container process on the
 
 - Docker docs: https://docs.docker.com/
 - Linux namespaces: https://man7.org/linux/man-pages/man7/namespaces.7.html
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux for AWS](linux-for-aws.md) | ⬆️ Module: [Module 13 — Real-World Linux for DevOps](README.md) | ➡️ Next: [Linux for Kubernetes](linux-for-kubernetes.md) |

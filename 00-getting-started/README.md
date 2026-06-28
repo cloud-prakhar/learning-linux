@@ -61,3 +61,13 @@ Nothing to break yet. If terms feel overwhelming, re-read the **Simple Layman Ex
 ## Next Module
 
 ➡️ [01 — Linux Setup](../01-linux-setup/): get a real Linux environment running.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Learning Linux](../README.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [What Is Linux?](what-is-linux.md) |

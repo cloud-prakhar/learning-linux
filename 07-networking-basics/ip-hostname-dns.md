@@ -102,3 +102,13 @@ example.com.   3600  IN  A  93.184.216.34
 
 - `man ip`, `man hostnamectl`, `man dig`, `man resolv.conf`
 - systemd-resolved: https://www.freedesktop.org/software/systemd/man/systemd-resolved.html
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Networking Fundamentals](networking-fundamentals.md) | ⬆️ Module: [Module 07 — Networking Basics](README.md) | ➡️ Next: [ping, curl, wget](ping-curl-wget.md) |

@@ -66,3 +66,13 @@ DNS (getent/dig) -> Reachability (ping) -> Port (ss/curl) -> App (curl -v/logs)
 ```
 
 > Source: [Module 07](../07-networking-basics/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Permissions Cheatsheet](permissions-cheatsheet.md) | ⬆️ Module: [Module 16 — Cheatsheets](README.md) | ➡️ Next: [Process & Service Cheatsheet](process-service-cheatsheet.md) |

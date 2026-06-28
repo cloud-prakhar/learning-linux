@@ -81,3 +81,13 @@ pkill yes 2>/dev/null    # ensure no stray 'yes' remains
 - **No `cron` service** → use `ssh` (the lab falls back automatically).
 - **`journalctl` permission denied** → add `sudo` or join the `systemd-journal` group.
 - **`top` floods the screen** → the lab uses `top -b -n 1` (batch, one snapshot); press `q` if you run interactive `top`.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Lab 02 — User & Permission Practice](lab-02-user-permission-practice.md) | ⬆️ Module: [Module 14 — Hands-On Labs](README.md) | ➡️ Next: [Lab 04 — Network Debugging](lab-04-network-debugging.md) |

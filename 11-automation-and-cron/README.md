@@ -60,3 +60,13 @@ Write a cron job that appends a timestamp to a file every minute, confirm it run
 ## Next Module
 
 ➡️ [12 — Linux Security Basics](../12-linux-security-basics/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Log Cleanup Script Example](../10-shell-scripting/log-cleanup-script-example.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [What Is Cron?](what-is-cron.md) |

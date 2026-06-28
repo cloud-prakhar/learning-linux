@@ -97,3 +97,13 @@ deploy ALL=(root) NOPASSWD: /usr/bin/systemctl restart nginx
 
 - `man sudoers`, `man useradd`
 - NIST least privilege: https://csrc.nist.gov/glossary/term/least_privilege
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Firewall Basics (ufw / firewalld)](firewall-basics-ufw-firewalld.md) | ⬆️ Module: [Module 12 — Linux Security Basics](README.md) | ➡️ Next: [Security Best Practices](security-best-practices.md) |

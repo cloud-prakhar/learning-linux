@@ -64,3 +64,13 @@ Create a user and group, set file ownership and permissions, then deliberately c
 ## Next Module
 
 ➡️ [05 — Processes & Services](../05-processes-and-services/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [File Compression & Archiving](../03-files-and-directories/file-compression.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Users and Groups](users-and-groups.md) |

@@ -92,3 +92,13 @@ nproc             # show CPU count
 - VirtualBox: https://www.virtualbox.org/
 - Ubuntu Desktop: https://ubuntu.com/download/desktop
 - Ubuntu install tutorial: https://ubuntu.com/tutorials/install-ubuntu-desktop
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [WSL Setup on Windows](wsl-setup-windows.md) | ⬆️ Module: [Module 01 — Linux Setup](README.md) | ➡️ Next: [Cloud Linux Server (AWS EC2)](cloud-linux-server.md) |

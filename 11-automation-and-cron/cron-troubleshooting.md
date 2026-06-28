@@ -111,3 +111,13 @@ This file is the troubleshooting reference. The fastest test is `env -i bash -c 
 
 - `man cron`, `man crontab`, `man 5 crontab`
 - [crontab-basics.md](./crontab-basics.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Scheduled Backup Example](scheduled-backup-example.md) | ⬆️ Module: [Module 11 — Automation & Cron](README.md) | ➡️ Next: [Module 12 — Linux Security Basics](../12-linux-security-basics/README.md) |

@@ -75,3 +75,13 @@ systemctl status -> journalctl -u svc -e -> validate config (nginx -t) -> fix ->
 ```
 
 > Source: [Module 05](../05-processes-and-services/), [Module 09](../09-logs-monitoring-troubleshooting/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Networking Cheatsheet](networking-cheatsheet.md) | ⬆️ Module: [Module 16 — Cheatsheets](README.md) | ➡️ Next: [Troubleshooting Cheatsheet](troubleshooting-cheatsheet.md) |

@@ -92,3 +92,13 @@ locate nginx.conf                  # fast name lookup (needs mlocate)
 
 - `man find`, `man grep`, `man locate`
 - GNU grep: https://www.gnu.org/software/grep/manual/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Viewing Files](view-files.md) | ⬆️ Module: [Module 03 — Files & Directories](README.md) | ➡️ Next: [Links — Hard and Soft (Symbolic)](links-hard-soft.md) |

@@ -101,3 +101,13 @@ sudo mount -a        # mount everything in fstab; errors here mean a bad entry
 ## 14. References
 
 - `man mount`, `man umount`, `man fstab`, `man blkid`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [df, du, and lsblk](df-du-lsblk.md) | ⬆️ Module: [Module 08 — Storage & Disk Management](README.md) | ➡️ Next: [Disk Full Troubleshooting](disk-full-troubleshooting.md) |

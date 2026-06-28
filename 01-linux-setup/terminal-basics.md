@@ -96,3 +96,13 @@ q           -> quit a manual/pager view
 
 - GNU Bash manual: https://www.gnu.org/software/bash/manual/
 - `man bash`, `man man`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Cloud Linux Server (AWS EC2)](cloud-linux-server.md) | ⬆️ Module: [Module 01 — Linux Setup](README.md) | ➡️ Next: [Module 02 — Linux Basics](../02-linux-basics/README.md) |

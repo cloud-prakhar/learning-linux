@@ -97,3 +97,13 @@ Expected `ls -li`:
 
 - `man ln`, `man readlink`
 - GNU Coreutils: https://www.gnu.org/software/coreutils/manual/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Searching Files](search-files.md) | ⬆️ Module: [Module 03 — Files & Directories](README.md) | ➡️ Next: [File Compression & Archiving](file-compression.md) |

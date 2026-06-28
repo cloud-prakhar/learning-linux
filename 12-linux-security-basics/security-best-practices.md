@@ -106,3 +106,13 @@ crontab -l
 - CIS Benchmarks: https://www.cisecurity.org/cis-benchmarks
 - Ubuntu security guide: https://ubuntu.com/security
 - [Module 15 Project 04 (Nginx)](../15-mini-projects/project-04-simple-nginx-server-setup.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Least Privilege](least-privilege.md) | ⬆️ Module: [Module 12 — Linux Security Basics](README.md) | ➡️ Next: [Module 13 — Real-World Linux for DevOps](../13-real-world-linux-for-devops/README.md) |

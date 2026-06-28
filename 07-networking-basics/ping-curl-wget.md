@@ -92,3 +92,13 @@ wget -O out.tar.gz <url>         # download to a specific name
 
 - curl: https://curl.se/docs/
 - `man ping`, `man curl`, `man wget`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [IP, Hostname, and DNS](ip-hostname-dns.md) | ⬆️ Module: [Module 07 — Networking Basics](README.md) | ➡️ Next: [Ports and Sockets](ports-and-sockets.md) |

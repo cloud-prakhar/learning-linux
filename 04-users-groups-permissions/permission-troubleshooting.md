@@ -171,3 +171,13 @@ Already covered above — the scenarios *are* the troubleshooting.
 
 - `man chmod`, `man chown`, `man namei`, `man lsattr`
 - [chmod-chown-chgrp.md](./chmod-chown-chgrp.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [sudo and root](sudo-and-root.md) | ⬆️ Module: [Module 04 — Users, Groups & Permissions](README.md) | ➡️ Next: [Module 05 — Processes & Services](../05-processes-and-services/README.md) |

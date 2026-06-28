@@ -84,3 +84,13 @@ The biggest blocker is motivation, not technology. When stuck: take a break, re-
 
 - DevOps Roadmap: https://roadmap.sh/devops
 - Linux Foundation: https://www.linuxfoundation.org/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [What Is Linux?](what-is-linux.md) | ⬆️ Module: [Module 00 — Getting Started](README.md) | ➡️ Next: [Linux in the Real World](linux-in-real-world.md) |

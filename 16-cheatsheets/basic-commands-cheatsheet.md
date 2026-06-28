@@ -64,3 +64,13 @@
 | `which cmd` | Path of a command |
 
 > Source modules: [02](../02-linux-basics/), [03](../03-files-and-directories/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 16 — Cheatsheets](README.md) | ⬆️ Module: [Module 16 — Cheatsheets](README.md) | ➡️ Next: [Permissions Cheatsheet](permissions-cheatsheet.md) |

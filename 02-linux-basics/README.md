@@ -63,3 +63,13 @@ Explore your own system: `ls /`, `cd /etc`, `cat /etc/os-release`, and map what 
 ## Next Module
 
 ➡️ [03 — Files & Directories](../03-files-and-directories/): create, view, search, compress.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Terminal Basics](../01-linux-setup/terminal-basics.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Linux Architecture](linux-architecture.md) |

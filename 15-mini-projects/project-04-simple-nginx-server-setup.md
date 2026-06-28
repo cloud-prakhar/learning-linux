@@ -109,3 +109,13 @@ curl -s http://localhost | head
 
 - Nginx docs: https://nginx.org/en/docs/
 - [Module 05 services](../05-processes-and-services/systemd-services.md), [Module 12 firewall](../12-linux-security-basics/firewall-basics-ufw-firewalld.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Project 03 — User-Management Script](project-03-user-management-script.md) | ⬆️ Module: [Module 15 — Mini Projects](README.md) | ➡️ Next: [Project 05 — Troubleshooting Playbook](project-05-troubleshooting-playbook.md) |

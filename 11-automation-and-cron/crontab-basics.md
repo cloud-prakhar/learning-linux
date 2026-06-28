@@ -113,3 +113,13 @@ Example crontab content:
 
 - `man 5 crontab`
 - crontab.guru (expression helper): https://crontab.guru/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [What Is Cron?](what-is-cron.md) | ⬆️ Module: [Module 11 — Automation & Cron](README.md) | ➡️ Next: [Scheduled Backup Example](scheduled-backup-example.md) |

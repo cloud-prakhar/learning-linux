@@ -124,3 +124,13 @@ This whole file is the troubleshooting guide. If logs are empty, check the servi
 
 - `man systemctl`, `man journalctl`
 - [systemd-services.md](./systemd-services.md), [Module 09](../09-logs-monitoring-troubleshooting/)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [systemd Services](systemd-services.md) | ⬆️ Module: [Module 05 — Processes & Services](README.md) | ➡️ Next: [Module 06 — Package Management](../06-package-management/README.md) |

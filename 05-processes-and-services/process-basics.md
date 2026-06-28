@@ -99,3 +99,13 @@ fg %1                    # bring job 1 to foreground
 
 - `man ps`, `man pstree`
 - Linux `/proc` docs: https://docs.kernel.org/filesystems/proc.html
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 05 — Processes & Services](README.md) | ⬆️ Module: [Module 05 — Processes & Services](README.md) | ➡️ Next: [ps, top, and htop](ps-top-htop.md) |

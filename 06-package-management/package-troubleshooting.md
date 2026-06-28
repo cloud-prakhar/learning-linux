@@ -159,3 +159,13 @@ This file *is* the troubleshooting reference. Cross-check network issues with [M
 
 - `man apt`, `man dpkg`, `man dnf`
 - Ubuntu apt docs: https://ubuntu.com/server/docs/package-management
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Install, Remove, Update Packages](install-remove-update-packages.md) | ⬆️ Module: [Module 06 — Package Management](README.md) | ➡️ Next: [Module 07 — Networking Basics](../07-networking-basics/README.md) |

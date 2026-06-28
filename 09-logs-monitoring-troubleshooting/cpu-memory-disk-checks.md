@@ -103,3 +103,13 @@ Swap:          2.0G   1.8G   0.2G
 ## 14. References
 
 - `man top`, `man free`, `man vmstat`, `man iostat`, `man uptime`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [syslog and /var/log](syslog-and-var-log.md) | ⬆️ Module: [Module 09 — Logs, Monitoring & Troubleshooting](README.md) | ➡️ Next: [Real-World Troubleshooting Scenarios](real-world-troubleshooting-scenarios.md) |

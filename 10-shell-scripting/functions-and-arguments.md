@@ -116,3 +116,13 @@ chmod +x funcs.sh
 
 - Bash functions: https://www.gnu.org/software/bash/manual/
 - `man bash` (Shell Functions, Positional Parameters)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Variables, Conditions, and Loops](variables-conditions-loops.md) | ⬆️ Module: [Module 10 — Shell Scripting](README.md) | ➡️ Next: [Script Permissions & Safety](script-permissions.md) |

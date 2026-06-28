@@ -97,3 +97,13 @@ sudo dpkg -i package.deb        # install a local .deb file
 
 - Ubuntu package management: https://ubuntu.com/server/docs/package-management
 - `man apt`, `man dpkg`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Package Management Concept](package-management-concept.md) | ⬆️ Module: [Module 06 — Package Management](README.md) | ➡️ Next: [yum / dnf (RHEL / CentOS / Fedora)](yum-dnf-rhel-centos.md) |

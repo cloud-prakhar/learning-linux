@@ -125,3 +125,13 @@ echo "[$(date)] Cleanup complete."
 
 - [Module 08 log cleanup](../08-storage-and-disk-management/log-cleanup-basics.md)
 - [Module 10 log-cleanup example](../10-shell-scripting/log-cleanup-script-example.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Project 01 — Linux Health-Check Script](project-01-linux-health-check-script.md) | ⬆️ Module: [Module 15 — Mini Projects](README.md) | ➡️ Next: [Project 03 — User-Management Script](project-03-user-management-script.md) |

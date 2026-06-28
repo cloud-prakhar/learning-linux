@@ -85,3 +85,13 @@ pkill -f "http.server 8000" 2>/dev/null
 - **`Address already in use`** → another process holds 8000; `ss -ltnp | grep 8000`, then kill it or use a different port.
 - **`nc: command not found`** → optional; install `netcat-openbsd` or skip step 6.
 - **DNS fails** → check `/etc/resolv.conf` and try `dig @8.8.8.8 github.com` (Module 07).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Lab 03 — Process & Service Debugging](lab-03-process-service-debugging.md) | ⬆️ Module: [Module 14 — Hands-On Labs](README.md) | ➡️ Next: [Lab 05 — Disk-Full Scenario](lab-05-disk-full-scenario.md) |

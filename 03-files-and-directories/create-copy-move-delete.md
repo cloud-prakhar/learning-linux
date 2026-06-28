@@ -95,3 +95,13 @@ rmdir empty_dir                 # delete an empty directory
 
 - GNU Coreutils: https://www.gnu.org/software/coreutils/manual/
 - `man cp`, `man mv`, `man rm`, `man mkdir`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 03 — Files & Directories](README.md) | ⬆️ Module: [Module 03 — Files & Directories](README.md) | ➡️ Next: [Viewing Files](view-files.md) |

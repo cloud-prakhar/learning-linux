@@ -108,3 +108,13 @@ You are in: /home/alice
 
 - GNU Bash manual: https://www.gnu.org/software/bash/manual/
 - `man bash`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 10 — Shell Scripting](README.md) | ⬆️ Module: [Module 10 — Shell Scripting](README.md) | ➡️ Next: [Variables, Conditions, and Loops](variables-conditions-loops.md) |

@@ -80,3 +80,13 @@ find dir -type d -exec chmod 755 {} \;
 
 > ⚠️ Avoid `chmod 777` — it lets everyone modify the file.
 > Source: [Module 04](../04-users-groups-permissions/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Basic Commands Cheatsheet](basic-commands-cheatsheet.md) | ⬆️ Module: [Module 16 — Cheatsheets](README.md) | ➡️ Next: [Networking Cheatsheet](networking-cheatsheet.md) |

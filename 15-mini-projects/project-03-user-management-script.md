@@ -126,3 +126,13 @@ echo "(User must change it at first login.)"
 
 - [Module 04 users & groups](../04-users-groups-permissions/users-and-groups.md)
 - [Module 12 least privilege](../12-linux-security-basics/least-privilege.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Project 02 — Log Cleanup Automation](project-02-log-cleanup-automation.md) | ⬆️ Module: [Module 15 — Mini Projects](README.md) | ➡️ Next: [Project 04 — Simple Nginx Server Setup](project-04-simple-nginx-server-setup.md) |

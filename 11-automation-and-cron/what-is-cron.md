@@ -88,3 +88,13 @@ ls /etc/cron.d/ /etc/cron.daily/   # system-wide jobs
 
 - `man cron`, `man crontab`, `man 5 crontab`
 - Ubuntu cron: https://help.ubuntu.com/community/CronHowto
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 11 — Automation & Cron](README.md) | ⬆️ Module: [Module 11 — Automation & Cron](README.md) | ➡️ Next: [Crontab Basics](crontab-basics.md) |

@@ -88,3 +88,13 @@ SSH keys + no root/password login → firewall default-deny (22/80/443) → patc
 - Tie answers to the labs/projects you built in this repo.
 
 > Source: Modules 05, 07, 08, 09, 11, 12, 13.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux Interview Questions](linux-interview-questions.md) | ⬆️ Module: [Module 17 — Interview & Revision](README.md) | ➡️ Next: [Command Practice Questions](command-practice-questions.md) |

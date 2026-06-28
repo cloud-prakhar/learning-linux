@@ -94,3 +94,13 @@ cd -                  # go back to previous directory
 
 - `man cd` (bash builtin), `man pwd`
 - GNU Coreutils: https://www.gnu.org/software/coreutils/manual/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux Filesystem Overview](linux-file-system-overview.md) | ⬆️ Module: [Module 02 — Linux Basics](README.md) | ➡️ Next: [Basic Navigation Commands](basic-navigation-commands.md) |

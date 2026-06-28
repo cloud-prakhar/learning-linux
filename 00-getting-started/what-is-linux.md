@@ -107,3 +107,13 @@ ID=ubuntu
 - The Linux Kernel: https://www.kernel.org/
 - Ubuntu: https://ubuntu.com/
 - `man uname`, `man hostnamectl`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 00 — Getting Started](README.md) | ⬆️ Module: [Module 00 — Getting Started](README.md) | ➡️ Next: [Why Learn Linux?](why-learn-linux.md) |

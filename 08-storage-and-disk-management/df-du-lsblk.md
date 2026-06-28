@@ -104,3 +104,13 @@ Filesystem  Size  Used Avail Use% Mounted on
 
 - `man df`, `man du`, `man lsblk`
 - ncdu: https://dev.yorhel.nl/ncdu
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Disks, Partitions, Filesystems, and Mounts](disk-partition-mount-concepts.md) | ⬆️ Module: [Module 08 — Storage & Disk Management](README.md) | ➡️ Next: [mount and umount](mount-and-umount.md) |

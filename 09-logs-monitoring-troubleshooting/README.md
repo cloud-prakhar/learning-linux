@@ -63,3 +63,13 @@ Query logs for a service, filter by time and priority, then correlate an event w
 ## Next Module
 
 ➡️ [10 — Shell Scripting](../10-shell-scripting/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Log Cleanup Basics](../08-storage-and-disk-management/log-cleanup-basics.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Linux Logs Overview](linux-logs-overview.md) |

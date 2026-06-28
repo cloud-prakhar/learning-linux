@@ -112,3 +112,13 @@ $ ls -l script.sh
 
 - `man chmod`, `man stat`, `man umask`
 - GNU Coreutils permissions: https://www.gnu.org/software/coreutils/manual/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Users and Groups](users-and-groups.md) | ⬆️ Module: [Module 04 — Users, Groups & Permissions](README.md) | ➡️ Next: [chmod, chown, chgrp](chmod-chown-chgrp.md) |

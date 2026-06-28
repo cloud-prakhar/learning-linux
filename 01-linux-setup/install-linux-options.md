@@ -86,3 +86,13 @@ pwd           # current directory
 - WSL: https://learn.microsoft.com/windows/wsl/
 - VirtualBox: https://www.virtualbox.org/
 - AWS EC2: https://docs.aws.amazon.com/ec2/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 01 — Linux Setup](README.md) | ⬆️ Module: [Module 01 — Linux Setup](README.md) | ➡️ Next: [WSL Setup on Windows](wsl-setup-windows.md) |

@@ -65,3 +65,13 @@ Pick **one** environment and get to a working shell prompt where `whoami` and `p
 ## Next Module
 
 ➡️ [02 — Linux Basics](../02-linux-basics/): architecture, filesystem, and navigation.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux Learning Roadmap](../00-getting-started/linux-learning-roadmap.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Install Linux — Your Options](install-linux-options.md) |

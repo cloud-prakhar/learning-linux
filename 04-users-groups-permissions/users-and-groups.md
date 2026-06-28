@@ -101,3 +101,13 @@ sudo userdel -r alice        # delete user and home (-r)
 
 - `man useradd`, `man usermod`, `man passwd`
 - Ubuntu user management: https://ubuntu.com/server/docs/security-users
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 04 — Users, Groups & Permissions](README.md) | ⬆️ Module: [Module 04 — Users, Groups & Permissions](README.md) | ➡️ Next: [File Permissions](file-permissions.md) |

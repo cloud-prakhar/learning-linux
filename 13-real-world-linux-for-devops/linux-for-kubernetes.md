@@ -94,3 +94,13 @@ df -h ; free -h ; journalctl -u kubelet -e
 
 - Kubernetes docs: https://kubernetes.io/docs/
 - kubectl cheatsheet: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux for Docker](linux-for-docker.md) | ⬆️ Module: [Module 13 — Real-World Linux for DevOps](README.md) | ➡️ Next: [Linux for CI/CD](linux-for-ci-cd.md) |

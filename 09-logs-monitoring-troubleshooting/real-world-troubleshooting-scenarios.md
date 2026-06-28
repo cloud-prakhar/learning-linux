@@ -160,3 +160,13 @@ This file *is* applied troubleshooting. When stuck, return to the loop: symptom/
 
 - [Module 05](../05-processes-and-services/), [Module 08](../08-storage-and-disk-management/)
 - [Module 15 Project 05: troubleshooting playbook](../15-mini-projects/project-05-troubleshooting-playbook.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [CPU, Memory, and Disk Checks](cpu-memory-disk-checks.md) | ⬆️ Module: [Module 09 — Logs, Monitoring & Troubleshooting](README.md) | ➡️ Next: [Module 10 — Shell Scripting](../10-shell-scripting/README.md) |

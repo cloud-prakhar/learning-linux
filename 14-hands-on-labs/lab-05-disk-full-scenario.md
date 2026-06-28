@@ -90,3 +90,13 @@ df -h /
 - **Space didn't free after rm** → that's the lesson; find the holder with `lsof +L1 | grep deleted` and kill/restart it.
 - **`lsof` permission denied** → run with `sudo`.
 - **Low free space to begin with** → reduce the file sizes in step 2.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Lab 04 — Network Debugging](lab-04-network-debugging.md) | ⬆️ Module: [Module 14 — Hands-On Labs](README.md) | ➡️ Next: [Lab 06 — Shell Script Automation](lab-06-shell-script-automation.md) |

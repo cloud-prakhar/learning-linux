@@ -101,3 +101,13 @@ systemctl status svc -> journalctl -u svc -e -> validate config (-t)
 - Reference the labs and projects you built here as real experience.
 
 > You've covered Modules 00–16. Revisit any module's **Quick Recap** for a deeper refresh. Good luck! 🐧
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Command Practice Questions](command-practice-questions.md) | ⬆️ Module: [Module 17 — Interview & Revision](README.md) | ➡️ Next: [Diagrams](../diagrams/README.md) |

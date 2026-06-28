@@ -93,3 +93,13 @@ sudo zgrep "error" /var/log/syslog.1.gz         # search rotated (gzipped) logs
 
 - `man rsyslog.conf`, `man logger`
 - rsyslog: https://www.rsyslog.com/doc/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [journalctl Basics](journalctl-basics.md) | ⬆️ Module: [Module 09 — Logs, Monitoring & Troubleshooting](README.md) | ➡️ Next: [CPU, Memory, and Disk Checks](cpu-memory-disk-checks.md) |

@@ -109,3 +109,13 @@
 | Syntax check only | `bash -n script.sh` |
 
 > Source: Modules 02–11. Need the "why"? Open the cheatsheet or topic file for that command.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Scenario-Based Questions](scenario-based-questions.md) | ⬆️ Module: [Module 17 — Interview & Revision](README.md) | ➡️ Next: [Final Revision Notes](final-revision-notes.md) |

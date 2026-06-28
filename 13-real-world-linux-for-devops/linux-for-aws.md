@@ -94,3 +94,13 @@ df -h ; free -h ; top                         # health (Module 9)
 
 - AWS EC2 docs: https://docs.aws.amazon.com/ec2/
 - cloud-init: https://cloudinit.readthedocs.io/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 13 — Real-World Linux for DevOps](README.md) | ⬆️ Module: [Module 13 — Real-World Linux for DevOps](README.md) | ➡️ Next: [Linux for Docker](linux-for-docker.md) |

@@ -68,3 +68,13 @@ Write a "hello" script, add variables and a loop, turn it into a function with a
 ## Next Module
 
 ➡️ [11 — Automation & Cron](../11-automation-and-cron/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Real-World Troubleshooting Scenarios](../09-logs-monitoring-troubleshooting/real-world-troubleshooting-scenarios.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Shell Script Basics](shell-script-basics.md) |

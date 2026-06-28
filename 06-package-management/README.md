@@ -63,3 +63,13 @@ Update your package index, install a small tool (like `tree` or `htop`), verify 
 ## Next Module
 
 ➡️ [07 — Networking Basics](../07-networking-basics/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Service Troubleshooting](../05-processes-and-services/service-troubleshooting.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Package Management Concept](package-management-concept.md) |

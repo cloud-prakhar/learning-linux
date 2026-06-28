@@ -95,3 +95,13 @@ LISTEN  0.0.0.0:80           users:(("nginx",pid=900,fd=6))
 
 - `man ss`, `man lsof`, `man services`
 - iana ports: https://www.iana.org/assignments/service-names-port-numbers/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [ping, curl, wget](ping-curl-wget.md) | ⬆️ Module: [Module 07 — Networking Basics](README.md) | ➡️ Next: [netstat, ss, and lsof](netstat-ss-lsof.md) |

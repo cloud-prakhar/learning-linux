@@ -111,3 +111,13 @@ timedatectl                       # time sync status
 
 - CIS Benchmarks: https://www.cisecurity.org/cis-benchmarks
 - [Module 15 Project 05: troubleshooting playbook](../15-mini-projects/project-05-troubleshooting-playbook.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux for CI/CD](linux-for-ci-cd.md) | ⬆️ Module: [Module 13 — Real-World Linux for DevOps](README.md) | ➡️ Next: [Module 14 — Hands-On Labs](../14-hands-on-labs/README.md) |

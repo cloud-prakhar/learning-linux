@@ -88,3 +88,13 @@ In bash scripts: exit on any error (`-e`), error on unset variables (`-u`), and 
 - Reference real practice ("in a lab I…").
 
 > Source: all modules. See [scenario-based-questions.md](./scenario-based-questions.md) next.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 17 — Interview & Revision](README.md) | ⬆️ Module: [Module 17 — Interview & Revision](README.md) | ➡️ Next: [Scenario-Based Questions](scenario-based-questions.md) |

@@ -39,3 +39,13 @@ This module consolidates the entire repo into interview-ready form. If a questio
 ## You Made It 🎉
 
 After this module you've gone from zero to intermediate Linux — ready for DevOps/Cloud/SRE work. Revisit the [labs](../14-hands-on-labs/) and [projects](../15-mini-projects/) to keep skills sharp.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Troubleshooting Cheatsheet](../16-cheatsheets/troubleshooting-cheatsheet.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Linux Interview Questions](linux-interview-questions.md) |

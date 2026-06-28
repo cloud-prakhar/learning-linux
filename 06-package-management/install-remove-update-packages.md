@@ -96,3 +96,13 @@ sudo dnf remove -y htop && sudo dnf autoremove -y
 
 - `man apt`, `man dnf`
 - [apt-ubuntu-debian.md](./apt-ubuntu-debian.md), [yum-dnf-rhel-centos.md](./yum-dnf-rhel-centos.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [yum / dnf (RHEL / CentOS / Fedora)](yum-dnf-rhel-centos.md) | ⬆️ Module: [Module 06 — Package Management](README.md) | ➡️ Next: [Package Troubleshooting](package-troubleshooting.md) |

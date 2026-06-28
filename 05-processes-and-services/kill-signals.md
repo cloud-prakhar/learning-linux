@@ -97,3 +97,13 @@ kill -l                  # list all signal names
 ## 14. References
 
 - `man kill`, `man pkill`, `man 7 signal`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [ps, top, and htop](ps-top-htop.md) | ⬆️ Module: [Module 05 — Processes & Services](README.md) | ➡️ Next: [systemd Services](systemd-services.md) |

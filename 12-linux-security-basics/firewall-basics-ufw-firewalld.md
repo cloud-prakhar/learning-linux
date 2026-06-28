@@ -103,3 +103,13 @@ sudo firewall-cmd --list-all
 - ufw: https://help.ubuntu.com/community/UFW
 - firewalld: https://firewalld.org/documentation/
 - `man ufw`, `man firewall-cmd`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [SSH Basics](ssh-basics.md) | ⬆️ Module: [Module 12 — Linux Security Basics](README.md) | ➡️ Next: [Least Privilege](least-privilege.md) |

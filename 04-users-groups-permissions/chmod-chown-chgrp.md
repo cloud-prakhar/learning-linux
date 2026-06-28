@@ -102,3 +102,13 @@ sudo chgrp devs file.txt       # change group only
 
 - `man chmod`, `man chown`, `man chgrp`
 - GNU Coreutils: https://www.gnu.org/software/coreutils/manual/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [File Permissions](file-permissions.md) | ⬆️ Module: [Module 04 — Users, Groups & Permissions](README.md) | ➡️ Next: [sudo and root](sudo-and-root.md) |

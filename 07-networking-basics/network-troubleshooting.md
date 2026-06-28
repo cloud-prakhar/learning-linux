@@ -177,3 +177,13 @@ The scenarios above are the reference. Cross-check firewall rules in [Module 12]
 
 - `man dig`, `man ss`, `man curl`, `man nc`
 - [Module 12 firewall](../12-linux-security-basics/firewall-basics-ufw-firewalld.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [netstat, ss, and lsof](netstat-ss-lsof.md) | ⬆️ Module: [Module 07 — Networking Basics](README.md) | ➡️ Next: [Module 08 — Storage & Disk Management](../08-storage-and-disk-management/README.md) |

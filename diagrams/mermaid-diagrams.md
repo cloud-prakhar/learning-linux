@@ -155,3 +155,13 @@ flowchart LR
 ---
 
 > Edit/preview these at the [Mermaid Live Editor](https://mermaid.live/). Keep diagrams simple and left-to-right for clarity.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Diagrams](README.md) | ⬆️ Module: [Diagrams](README.md) | ➡️ Next: [References](../references/README.md) |

@@ -92,3 +92,13 @@ sudo lsof -i -nP | grep LISTEN   # listeners, numeric
 
 - `man ss`, `man netstat`, `man lsof`
 - iproute2: https://wiki.linuxfoundation.org/networking/iproute2
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Ports and Sockets](ports-and-sockets.md) | ⬆️ Module: [Module 07 — Networking Basics](README.md) | ➡️ Next: [Network Troubleshooting](network-troubleshooting.md) |

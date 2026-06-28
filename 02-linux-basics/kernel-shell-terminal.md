@@ -91,3 +91,13 @@ uname -r           # kernel version (the kernel itself)
 
 - GNU Bash: https://www.gnu.org/software/bash/manual/
 - `man bash`, `man chsh`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux Architecture](linux-architecture.md) | ⬆️ Module: [Module 02 — Linux Basics](README.md) | ➡️ Next: [Linux Filesystem Overview](linux-file-system-overview.md) |

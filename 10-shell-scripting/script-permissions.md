@@ -108,3 +108,13 @@ echo "Operating safely on: $TARGET"
 
 - ShellCheck: https://www.shellcheck.net/
 - `man bash`, `man chmod`
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Functions and Arguments](functions-and-arguments.md) | ⬆️ Module: [Module 10 — Shell Scripting](README.md) | ➡️ Next: [Backup Script Example](backup-script-example.md) |

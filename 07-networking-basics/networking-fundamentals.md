@@ -96,3 +96,13 @@ ss -ltn                  # local listening TCP ports
 
 - `man ip`, `man ss`, `man curl`
 - Cloudflare DNS learning: https://www.cloudflare.com/learning/dns/what-is-dns/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 07 — Networking Basics](README.md) | ⬆️ Module: [Module 07 — Networking Basics](README.md) | ➡️ Next: [IP, Hostname, and DNS](ip-hostname-dns.md) |

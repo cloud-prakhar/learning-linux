@@ -88,3 +88,13 @@ dnf repolist                 # (RHEL/Fedora) configured repositories
 
 - Debian packages: https://www.debian.org/doc/manuals/debian-reference/ch02.en.html
 - DNF: https://dnf.readthedocs.io/
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 06 — Package Management](README.md) | ⬆️ Module: [Module 06 — Package Management](README.md) | ➡️ Next: [apt (Ubuntu / Debian)](apt-ubuntu-debian.md) |

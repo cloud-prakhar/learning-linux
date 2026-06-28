@@ -55,3 +55,13 @@ Trusted, well-established resources to complement this repo. (Official docs are 
 4. **Aim for a cert** (LFCS/RHCSA/Linux+) if you want a credential — but hands-on skill matters most.
 
 > Links are to reputable, long-running resources. Tools and free books may move; search the name if a link changes.
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Official Reading List by Module](reading-list-by-module.md) | ⬆️ Module: [References](README.md) | — |

@@ -93,3 +93,13 @@ Expected output (first launch): it asks you to create a **UNIX username and pass
 
 - WSL docs: https://learn.microsoft.com/windows/wsl/
 - WSL install guide: https://learn.microsoft.com/windows/wsl/install
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Install Linux — Your Options](install-linux-options.md) | ⬆️ Module: [Module 01 — Linux Setup](README.md) | ➡️ Next: [VirtualBox + Ubuntu Setup](virtualbox-ubuntu-setup.md) |

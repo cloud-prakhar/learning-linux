@@ -63,3 +63,13 @@ Inspect your disks with `lsblk`, measure usage with `df -h` and `du -sh`, then f
 ## Next Module
 
 ➡️ [09 — Logs, Monitoring & Troubleshooting](../09-logs-monitoring-troubleshooting/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Network Troubleshooting](../07-networking-basics/network-troubleshooting.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Disks, Partitions, Filesystems, and Mounts](disk-partition-mount-concepts.md) |

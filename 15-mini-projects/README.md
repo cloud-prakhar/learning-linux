@@ -51,3 +51,13 @@ These projects consolidate scripting, monitoring, security, and services into de
 ## Next Module
 
 ➡️ [16 — Cheatsheets](../16-cheatsheets/).
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Lab 06 — Shell Script Automation](../14-hands-on-labs/lab-06-shell-script-automation.md) | ⬆️ Home: [Learning Linux](../README.md) | ➡️ Next: [Project 01 — Linux Health-Check Script](project-01-linux-health-check-script.md) |

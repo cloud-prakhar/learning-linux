@@ -144,3 +144,13 @@ ls -lh /tmp/backups
 
 - `man tar`, `man date`, `man find`
 - [Module 11 scheduled backup](../11-automation-and-cron/scheduled-backup-example.md)
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Script Permissions & Safety](script-permissions.md) | ⬆️ Module: [Module 10 — Shell Scripting](README.md) | ➡️ Next: [Log Cleanup Script Example](log-cleanup-script-example.md) |

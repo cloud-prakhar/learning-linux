@@ -93,3 +93,13 @@ sudo grep -i error /var/log/syslog   # find errors
 
 - `man journalctl`, `man dmesg`, `man rsyslogd`
 - systemd journal: https://www.freedesktop.org/software/systemd/man/journalctl.html
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Module 09 — Logs, Monitoring & Troubleshooting](README.md) | ⬆️ Module: [Module 09 — Logs, Monitoring & Troubleshooting](README.md) | ➡️ Next: [journalctl Basics](journalctl-basics.md) |

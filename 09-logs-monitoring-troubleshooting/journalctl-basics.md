@@ -92,3 +92,13 @@ journalctl --disk-usage               # how much space the journal uses
 
 - `man journalctl`
 - systemd journal: https://www.freedesktop.org/software/systemd/man/journalctl.html
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [Linux Logs Overview](linux-logs-overview.md) | ⬆️ Module: [Module 09 — Logs, Monitoring & Troubleshooting](README.md) | ➡️ Next: [syslog and /var/log](syslog-and-var-log.md) |

@@ -93,3 +93,13 @@ The authoritative sources. Prefer these over third-party content.
 | cloud-init | https://cloudinit.readthedocs.io/ |
 
 > All links point to official or long-established sources. If a link ever changes, search the tool name + "official documentation".
+
+<!-- NAV-FOOTER -->
+
+---
+
+### 🧭 Navigation
+
+| Previous | Up | Next |
+|:---|:---:|---:|
+| ⬅️ Prev: [References](README.md) | ⬆️ Module: [References](README.md) | ➡️ Next: [Standards & RFCs](standards-and-rfcs.md) |
