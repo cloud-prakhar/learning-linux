@@ -1,0 +1,16 @@
+# Local-only Claude guidance files — do NOT push to GitHub
+claude.md
+memory.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Temp / scratch
+*.tmp
+*.bak
+scratch/
